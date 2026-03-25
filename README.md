@@ -262,8 +262,6 @@ Make sure you create this file:
 ultralytics
 opencv-python
 pytesseract
-torch
-torchvision
 
 ```
 
@@ -275,7 +273,7 @@ torchvision
 
 # 📄 do this if you want to delete venv folder because of its large size :
 
-pip freeze > requirements.txt
+pip freeze > requirements.txt (if needed)
 deactivate
 rm -rf venv
 

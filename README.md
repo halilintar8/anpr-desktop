@@ -1,6 +1,3 @@
-Perfect 👍 I’ll rewrite your entire `README.md` cleanly and professionally, using `pip install -r requirements.txt`.
-
-You can replace your whole README with this:
 
 ---
 
@@ -254,18 +251,13 @@ Your ANPR system is now ready to:
 
 ## 📌 Author
 
-Muhammad – ANPR Desktop Project
+Muhammad Bintang – ANPR Desktop Project
 
 ```
-
----
 
 # 📄 Also Create `requirements.txt`
 
 Make sure you create this file:
-
-```
-
 ultralytics
 opencv-python
 pytesseract
@@ -275,16 +267,3 @@ torchvision
 ```
 
 ---
-
-Now your project looks clean, modern, and GitHub-ready.
-
-If you want, I can also prepare:
-
-- ✅ Professional project description for GitHub
-- ✅ Release version structure
-- ✅ Docker version
-- ✅ Windows setup guide
-- ✅ Add MIT License file
-
-Tell me which level you want next 🚀
-```

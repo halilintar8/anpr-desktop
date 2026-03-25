@@ -258,6 +258,7 @@ Muhammad Bintang – ANPR Desktop Project
 # 📄 Also Create `requirements.txt`
 
 Make sure you create this file:
+
 ultralytics
 opencv-python
 pytesseract
@@ -267,3 +268,24 @@ torchvision
 ```
 
 ---
+
+## 📌 Notes
+
+```
+
+# 📄 do this if you want to delete venv folder because of its large size :
+
+pip freeze > requirements.txt
+deactivate
+rm -rf venv
+
+# 📄 create venv again :
+
+python3 -m venv venv
+source venv/bin/activate.fish   # karena kamu pakai fish
+pip install -r requirements.txt
+
+```
+
+---
+

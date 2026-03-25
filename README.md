@@ -280,7 +280,7 @@ rm -rf venv
 # 📄 create venv again :
 
 python3 -m venv venv
-source venv/bin/activate.fish   # karena kamu pakai fish
+source venv/bin/activate.fish   # if you use fish shell
 pip install -r requirements.txt
 
 ```
